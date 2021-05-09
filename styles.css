@@ -33,6 +33,7 @@ body {
     animation-name: heart;
     animation-duration: 0.6s;
     animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
 }
 
 @keyframes heart {
@@ -62,6 +63,7 @@ body {
     animation-name: ripple;
     animation-duration: 0.6s;
     animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
 }
 
 @keyframes ripple {
