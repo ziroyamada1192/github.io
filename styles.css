@@ -2,6 +2,10 @@ body {
     padding: 40px;
 }
 
+canvas {
+  background: #fff;
+}
+
 .like {
     cursor: pointer;
     display: inline-flex;
